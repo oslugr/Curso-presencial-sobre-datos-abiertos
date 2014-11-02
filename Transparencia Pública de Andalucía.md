@@ -3,18 +3,18 @@ Publicada en el BOJA el 30/06/2014
 
 ##Estructura  
 
-*Exposición de motivos.  
-*6 Titulos:  
-  **Disposiciones generales  
-  **Publicidad activa  
-  **El derecho a la información pública  
-  **Fomento a la transparencia  
-  **Organización  
-  **Regimen sancionador  
-*6 Disposiciones adicionales  
-*2 Transitorias  
-*1 Degorratoria  
-*5 Finales  
+Exposición de motivos.  
+6 Titulos:  
+   Disposiciones generales  
+   Publicidad activa  
+   El derecho a la información pública  
+   Fomento a la transparencia  
+   Organización  
+   Regimen sancionador  
+6 Disposiciones adicionales  
+2 Transitorias  
+1 Degorratoria  
+5 Finales  
 
 
 ##Detalle
@@ -115,5 +115,21 @@ Disposición final cuarta. Desarrollo reglamentario.
 Disposición final quinta. Entrada en vigor.  
 
 ##Análisis
+
+### EXPOSICIÓN DE MOTIVOS 
+
+"Como indica el preámbulo del Convenio del Consejo de Europa sobre Acceso a los Documentos Públicos, en una sociedad democrática y pluralista, la transparencia es un requisito extremadamente importante"  
+
+"publicidad activa y el acceso a la información pública"  
+
+"implicando una actitud proactiva de los mismos"  
+
+"Constituye pues la excepción la denegación o limitación del acceso."  
+
+"Las nuevas tecnologías, por otro lado, coadyuvan a hacer posible la transparencia"
+
+Importancia del punto IV de la "Exposición de motivos" Normativa.  
+
+"La Ley es consciente asimismo de la necesidad de asegurar que la información que se obtenga de las distintas personas y entidades sea mínimamente homogénea."  Uso de standares.  
 
 
