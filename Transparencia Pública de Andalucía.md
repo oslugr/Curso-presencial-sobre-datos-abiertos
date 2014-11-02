@@ -130,6 +130,8 @@ Disposición final quinta. Entrada en vigor.
 
 Importancia del punto IV de la "Exposición de motivos" Normativa.  
 
-"La Ley es consciente asimismo de la necesidad de asegurar que la información que se obtenga de las distintas personas y entidades sea mínimamente homogénea."  Uso de standares.  
+"La Ley es consciente asimismo de la necesidad de asegurar que la información que se obtenga de las distintas personas y entidades sea mínimamente homogénea."  Uso de standares. 
+
+###TÍTULO I  
 
 
