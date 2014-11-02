@@ -149,27 +149,29 @@ Importancia del punto IV de la "Exposición de motivos" Normativa.
 
 "Artículo 6. Principios básicos."  
 
-"a) Principio de transparencia, en cuya virtud toda la información pública es en principio accesible y sólo puede ser retenida para proteger otros derechos e intereses legítimos de acuerdo con la Ley.
+a) Principio de transparencia.
 
-b) Principio de libre acceso a la información pública, en cuya virtud cualquier persona puede solicitar el acceso a la información pública.
+b) Principio de libre acceso a la información pública.
 
-c) Principio de responsabilidad, en cuya virtud las entidades sujetas a lo dispuesto en la presente ley son responsables del cumplimiento de sus prescripciones.
+c) Principio de responsabilidad.
 
-d) Principio de no discriminación tecnológica, en cuya virtud las entidades sujetas al ámbito de aplicación de la presente ley habrán de arbitrar los medios necesarios para hacer efectiva la transparencia, con independencia del medio de acceso a la información.
+d) Principio de no discriminación tecnológica.
 
-e) Principio de veracidad, en cuya virtud la información pública ha de ser cierta y exacta, asegurando que procede de documentos respecto de los que se ha verificado su autenticidad, fiabilidad, integridad, disponibilidad y cadena de custodia.
+e) Principio de veracidad.
 
-f) Principio de utilidad, en cuya virtud la información pública que se suministre, siempre que sea posible, ha de ser adecuada al cumplimiento de los fines para los que se solicite.
+f) Principio de utilidad.
 
-g) Principio de gratuidad, en cuya virtud el acceso a la información y las solicitudes de acceso serán gratuitos, sin perjuicio de las exacciones que puedan establecerse por la expedición de copias o soportes o la transposición de la información a un formato diferente al original.
+g) Principio de gratuidad.
 
-h) Principio de facilidad y comprensión, en cuya virtud la información se facilitará de la forma que resulte más simple e inteligible atendiendo a la naturaleza de la misma y a las necesidades de las personas con circunstancias especiales que les dificulten el ejercicio del derecho.
+h) Principio de facilidad y comprensión.
 
-i) Principio de accesibilidad, por el que se proporcionará información estructurada sobre los documentos y recursos de información con vistas a facilitar la identificación y búsqueda de la información.
+i) Principio de accesibilidad.
 
-j) Principio de interoperabilidad, en cuya virtud la información será publicada conforme al Esquema Nacional de Interoperabilidad.
+j) Principio de interoperabilidad.
 
-k) Principio de reutilización, en cuya virtud se fomentará que la información sea publicada en formatos que permitan su reutilización, de acuerdo con la legislación aplicable en materia de reutilización de la información del sector público."  
+k) Principio de reutilización.  
+
+
 
 
 
