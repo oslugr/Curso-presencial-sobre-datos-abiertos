@@ -135,4 +135,43 @@ Importancia del punto IV de la "Exposición de motivos" Normativa.
 
 ###TÍTULO I  
 
+"Información pública: los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de alguna de las personas y entidades incluidas en el presente título y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones" 
+
+"Ámbito subjetivo de aplicación."  
+
+"Artículo 4. Obligación de suministrar información."  
+
+"previo requerimiento y en un plazo de quince días, toda la información necesaria para el cumplimiento por aquellas de las obligaciones previstas en esta ley, sin perjuicio de los plazos que puedan establecer las entidades locales en ejercicio de su autonomía."  
+
+"multas coercitivas"  
+
+"Artículo 5. Otros sujetos obligados."  
+
+"Artículo 6. Principios básicos."  
+
+"a) Principio de transparencia, en cuya virtud toda la información pública es en principio accesible y sólo puede ser retenida para proteger otros derechos e intereses legítimos de acuerdo con la Ley.
+
+b) Principio de libre acceso a la información pública, en cuya virtud cualquier persona puede solicitar el acceso a la información pública.
+
+c) Principio de responsabilidad, en cuya virtud las entidades sujetas a lo dispuesto en la presente ley son responsables del cumplimiento de sus prescripciones.
+
+d) Principio de no discriminación tecnológica, en cuya virtud las entidades sujetas al ámbito de aplicación de la presente ley habrán de arbitrar los medios necesarios para hacer efectiva la transparencia, con independencia del medio de acceso a la información.
+
+e) Principio de veracidad, en cuya virtud la información pública ha de ser cierta y exacta, asegurando que procede de documentos respecto de los que se ha verificado su autenticidad, fiabilidad, integridad, disponibilidad y cadena de custodia.
+
+f) Principio de utilidad, en cuya virtud la información pública que se suministre, siempre que sea posible, ha de ser adecuada al cumplimiento de los fines para los que se solicite.
+
+g) Principio de gratuidad, en cuya virtud el acceso a la información y las solicitudes de acceso serán gratuitos, sin perjuicio de las exacciones que puedan establecerse por la expedición de copias o soportes o la transposición de la información a un formato diferente al original.
+
+h) Principio de facilidad y comprensión, en cuya virtud la información se facilitará de la forma que resulte más simple e inteligible atendiendo a la naturaleza de la misma y a las necesidades de las personas con circunstancias especiales que les dificulten el ejercicio del derecho.
+
+i) Principio de accesibilidad, por el que se proporcionará información estructurada sobre los documentos y recursos de información con vistas a facilitar la identificación y búsqueda de la información.
+
+j) Principio de interoperabilidad, en cuya virtud la información será publicada conforme al Esquema Nacional de Interoperabilidad.
+
+k) Principio de reutilización, en cuya virtud se fomentará que la información sea publicada en formatos que permitan su reutilización, de acuerdo con la legislación aplicable en materia de reutilización de la información del sector público."  
+
+
+
+
 
