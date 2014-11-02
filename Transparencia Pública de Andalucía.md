@@ -1,20 +1,20 @@
-##Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.
+###Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.
 Publicada en el BOJA el 30/06/2014
 
 ##Estructura  
 
-*Exposición de motivos.
-*6 Titulos:
-  **Disposiciones generales
-  **Publicidad activa
-  **El derecho a la información pública
-  **Fomento a la transparencia
-  **Organización
-  **Regimen sancionador
-*6 Disposiciones adicionales
-*2 Transitorias
-*1 Degorratoria
-*5 Finales
+*Exposición de motivos.  
+*6 Titulos:  
+  **Disposiciones generales  
+  **Publicidad activa  
+  **El derecho a la información pública  
+  **Fomento a la transparencia  
+  **Organización  
+  **Regimen sancionador  
+*6 Disposiciones adicionales  
+*2 Transitorias  
+*1 Degorratoria  
+*5 Finales  
 
 
 ##Detalle
